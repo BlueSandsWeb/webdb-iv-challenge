@@ -8,8 +8,6 @@ DATA MODEL
   ID (int)(PK)
   Dish_ID (int)(FK)
   name (varchar)
-  
-
 
 -Recipes2Ingredients
   ID (int)(PK)
